@@ -1,0 +1,1 @@
+GroundNotes is a desktop Java application that aims to bridge spreadsheets and GIS analysis by focusing on a table-first workflow.
