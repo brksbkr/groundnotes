@@ -1,0 +1,28 @@
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Build / packaging
+dist/
+build/
+*.egg-info/
+
+# Testing
+.pytest_cache/
